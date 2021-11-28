@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="keret_bemutat">
+	<div class="valasztosor">
+			<div class="nem_kival_elem">
+				<a href="start.html" style="color: blue;">Kezdõoldal</a>
+			</div>
+			<br>
+			<div class="kival_elem">
+				<a href="bemutatk.html" style="color: white;">Bemutatkozás</a>
+        		</div>
+			<br>
+        		<div class="nem_kival_elem">
+        			<a href="kepek.html" style="color: blue;">Képek</a>
+        		</div>
+			<br>
+        		<div class="nem_kival_elem">
+        			<a href="honlapterv.html" style="color: blue;">Honlapterv</a>
+        		</div>
+	</div>
+<p style="text-align:center; font-size:125%;"><br><br>Katona Márton vagyok a Budapesti Mûszaki és Gazdaságtudományi Egyetem elsõ éves hallgatója energetikai mérnök szakon.<br>Jelenlegi tanulmányaim mellet kevésbé fér bele az élsport de a gimnáziumi éveim alatt versenyszerûen kajakoztam.<br> Nevelõeggyesületem a Gyõri Vizisport Egyesület (http://kajakkenugyor.hu/) volt, itt tanultam meg a sportág alapjait és ennek köszönhetõen tudtam képviselni országunkat több nívós nemzetközi versenyen is.<br>
+
+Eredményeim:
+<br>
+- Olympic Hopes Regatta – Poznañ: 5.hely<br>
+- Olympic Hopes Regatta ¬– Raèice: 9 hely<br>
+- Olympic Hopes Regatta – Bratislava : 4. hely<br>
+- tízszeres Magyar Bajnok</p>
+</div>
+</body>
+</html>

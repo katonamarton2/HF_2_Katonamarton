@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<div class="keret_bemutat">
+<div class="valasztosor">
+			<div class="nem_kival_elem">
+				<a href="start.html" style="color: blue;">Kezdõoldal</a>
+			</div>
+			<br>
+			<div class="nem_kival_elem">
+				<a href="bemutatk.html" style="color: blue;">Bemutatkozás</a>
+        		</div>
+			<br>
+        		<div class="nem_kival_elem">
+        			<a href="kepek.html" style="color: blue;">Képek</a>
+        		</div>
+			<br>
+        		<div class="kival_elem">
+        			<a href="honlapterv.html" style="color: white;">Honlapterv</a>
+        		</div>
+		</div>
+<p style="text-align:center; font-size:125%;">Teljesen kezdõként álltam neki ennek a projektnek.<br> Ötletem sem volt nagyon, hogy is kéne kinéznie. Így egy néhány navigációs gombbal tudtam elképzelni és háttérképpel a portfólióm.<br>Nagyon kezdetleges tervet tudtam csak készíteni mikor neki álltam ennek a feladatnak, mert nem tudtam mit lehet megvalósítani html kódban.<br>Legnagyobb nehézség amit végül nem is tudtam szépen megoldani az a képek elhelyézese az oldalon.<br> </p>
+<p style ="text-align:center;font-size:125%;">A "http://www.w3schools.com" honlapot használtam segítségnek!</p>
+<img src="terv.jpg">
+</div>
+</body>
+</html>
